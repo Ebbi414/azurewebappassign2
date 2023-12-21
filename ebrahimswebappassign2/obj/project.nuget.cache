@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "f0nBO6skwxu921ADNq3BMsmp5ZtUQK7F247sL+WJRDoE7JAYwAyfixear0GYyhht7gW4wbhLNaAVVwKnV0EFfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amaniebr\\OneDrive - Tietoevry\\Documents\\My Documents\\Educational\\C#\\azure\\ebrahimswebappassign2\\ebrahimswebappassign2.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://tcmbuild1.bise.financialsolutions.se:800/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
